@@ -1,0 +1,15 @@
+---
+title: "Data Sets for Project"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+fires <- read_csv('/Users/jasminecisneros/Desktop/Fall 2023/CSCI 385/National_Interagency_Fire_Occurrence_Sixth_Edition_1992-2020_(Feature_Layer).csv')
+
+```
